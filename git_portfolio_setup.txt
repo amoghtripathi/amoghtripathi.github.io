@@ -1,0 +1,19 @@
+>create repository on GitHub
+
+>git
+
+>cd C:\Users\Abhimanyu Sharma\Desktop
+
+goto folder which you want to upload
+
+C:\Users\Abhimanyu Sharma\Desktop\abhimanyu96edu.github.io >git init
+
+>git remote origin........ (copy from github)
+
+>git status
+
+>git add . 
+
+>git commit -m "commit 1"
+
+>git push -u origin master
